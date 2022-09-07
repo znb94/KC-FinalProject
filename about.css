@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(54, 64, 90) ;
+    font-weight: bold;
+    width: 100vh;
+    height: 100vh ;
+
+
+
+}
+
+h2{
+    font-family: 'Amiri', serif;
+    color: rgb(206, 191, 253);
+}
+
+p{
+    font-family: 'Amiri', serif;
+    color: rgb(206, 191, 253);
+}
